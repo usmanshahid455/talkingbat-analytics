@@ -1,0 +1,10 @@
+match_id,innings,over,ball,batsman,bowler,bowling_action,batsman_runs,total_runs,dismissal_kind,player_dismissed,batting_style,batting_team,bowling_team
+1,1,1,1,Babar Azam,Faheem Ashraf,RAMF,0,0,,,"RHB","Pakistan","South Africa"
+1,1,1,2,Babar Azam,Faheem Ashraf,RAMF,4,4,,,"RHB","Pakistan","South Africa"
+1,1,1,3,Babar Azam,Faheem Ashraf,RAMF,1,1,,,"RHB","Pakistan","South Africa"
+1,1,2,1,Babar Azam,Faheem Ashraf,RAMF,1,1,,,"RHB","Pakistan","South Africa"
+1,1,2,2,Babar Azam,Faheem Ashraf,RAMF,6,6,,,"RHB","Pakistan","South Africa"
+1,1,3,1,Komal Khan,Faheem Ashraf,OFF BREAK,1,1,,,"RHB","Pakistan","South Africa"
+1,1,3,2,Komal Khan,Faheem Ashraf,OFF BREAK,0,0,,,"RHB","Pakistan","South Africa"
+1,1,3,3,Komal Khan,Faheem Ashraf,OFF BREAK,4,4,,,"RHB","Pakistan","South Africa"
+1,1,4,1,Komal Khan,Faheem Ashraf,OFF BREAK,6,6,,,"RHB","Pakistan","South Africa"
